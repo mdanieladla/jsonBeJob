@@ -1,0 +1,371 @@
+{
+    "mercadona": 
+        {
+            "datos":  {
+                "direccion": "Calle de las mariposas, 3",
+                "poblacion": "Madrid",
+                "codigo postal": "28093",
+                "geolocalizacion": {
+                    "longitud": "2° 11′ 34",
+                    "latitud": "5° 32′ 19"
+                }
+            },
+            "productos": {
+                "pan": [
+                    {
+                        "tipo": "integral barra",
+                        "precio": "1,90",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 101,
+                        "adquirido": true
+                    },
+                    {
+                        "tipo": "integral sandwich",
+                        "precio": "2,30",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 82,
+                        "adquirido": false
+                    },
+                    {
+                        "tipo": "pan de pueblo",
+                        "precio": "2,60",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 111,
+                        "adquirido": true
+                    },
+                    {
+                        "tipo": "barra gallega",
+                        "precio": "2,90",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 81,
+                        "adquirido": false
+                    },
+                    {
+                        "tipo": "blanco sandwich",
+                        "precio": "1,60",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 77,
+                        "adquirido": false
+                    }
+                ],
+                "leche": [
+                    {
+                        "tipo": "entera",
+                        "precio": "3,90",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 144,
+                        "adquirido": true
+                    },
+                    {
+                        "tipo": "desnatada",
+                        "precio": "4,20",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 86,
+                        "adquirido":false
+                    },
+                    {
+                        "tipo": "sin lactosa",
+                        "precio": "4,90",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 65,
+                        "adquirido": false
+                    },
+                    {
+                        "tipo": "avena",
+                        "precio": "3,80",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 44,
+                        "adquirido": false
+                    }
+                ],
+                "horchata": [
+                    {
+                        "tipo": "fresca",
+                        "precio": "2,90",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 34,
+                        "adquirido": true
+                    },
+                    {
+                        "tipo": "granizado",
+                        "precio": "2,10",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 23,
+                        "adquirido": false
+                    }
+                ]
+            }
+        },
+    "carrefour":
+        {
+            "datos":  {
+                "direccion": "Calle de Juan Bravo, 12",
+                "poblacion": "Madrid",
+                "codigo postal": "28023",
+                "geolocalizacion": {
+                    "longitud": "3° 1′ 24",
+                    "latitud": "2° 42′ 49"
+                }
+            },
+            "productos": {
+                "cereales": [
+                    {
+                        "tipo": "kellogs integral",
+                        "precio": "2,90",
+                        "oferta": true,
+                        "tipoOferta": "2ª unidad al 50%",
+                        "inicioOferta": "2-10-2023",
+                        "finOferta": "6-10-2023",
+                        "stock": 133,
+                        "adquirido": false
+                    },
+                    {
+                        "tipo": "chocapic chocolate",
+                        "precio": "2,70",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 92,
+                        "adquirido": false
+                    },
+                    {
+                        "tipo": "lion caramelo y chocolate",
+                        "precio": "2,00",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 112,
+                        "adquirido": false
+                    },
+                    {
+                        "tipo": "kellogs miel pops",
+                        "precio": "2,50",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 91,
+                        "adquirido": true
+                    }
+                ],
+                "yogur": [
+                    {
+                        "tipo": "alpro vegetal coco",
+                        "precio": "2,90",
+                        "oferta": true,
+                        "tipoOferta": "3x2",
+                        "inicioOferta": "22-10-2023",
+                        "finOferta": "26-10-2023",
+                        "stock": 121,
+                        "adquirido": true
+                    },
+                    {
+                        "tipo": "oikos natural",
+                        "precio": "2,20",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 123,
+                        "adquirido": true
+                    },
+                    {
+                        "tipo": "oikos sin lactosa",
+                        "precio": "3,90",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 65,
+                        "adquirido": false
+                    }
+                ],
+                "frutas": [
+                    {
+                        "tipo": "fresas 1kg",
+                        "precio": "1,90",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 139,
+                        "adquirido": true
+                    },
+                    {
+                        "tipo": "naranja malla 3kg",
+                        "precio": "4,10",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 221,
+                        "adquirido": true
+                    },
+                    {
+                        "tipo": "frambuesas",
+                        "precio": "2,70",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 190,
+                        "adquirido": true
+                    }
+                ]
+            }
+        },
+    "el corte inglés": 
+        {
+            "datos":  {
+                "direccion": "Calle de Felipe II, 2",
+                "poblacion": "Madrid",
+                "codigo postal": "28033",
+                "geolocalizacion": {
+                    "longitud": "3° 4′ 64",
+                    "latitud": "5° 23′ 79"
+                }
+            },
+            "productos": {
+                "salsas": [
+                    {
+                        "tipo": "siracha",
+                        "precio": "5,10",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 34,
+                        "adquirido": false
+                    },
+                    {
+                        "tipo": "tabasco",
+                        "precio": "3,40",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 23,
+                        "adquirido": true
+                    },
+                    {
+                        "tipo": "soja sin gluten",
+                        "precio": "5,00",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 192,
+                        "adquirido": true
+                    },
+                    {
+                        "tipo": "soja",
+                        "precio": "4,50",
+                        "oferta": false,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 291,
+                        "adquirido": false
+                    }
+                ],
+                "chocolates": [
+                    {
+                        "tipo": "lindt sin lactosa",
+                        "precio": "5,90",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 121,
+                        "adquirido": true
+                    },
+                    {
+                        "tipo": "lindt con leche",
+                        "precio": "2,60",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 143,
+                        "adquirido": false
+                    },
+                    {
+                        "tipo": "lindt con barquillo",
+                        "precio": "3,50",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 233,
+                        "adquirido": true
+                    }
+                ],
+                "verduras": [
+                    {
+                        "tipo": "lechuga iceberg",
+                        "precio": "2,90",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 132,
+                        "adquirido": true
+                    },
+                    {
+                        "tipo": "espárragos trigueros",
+                        "precio": "3,10",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 226,
+                        "adquirido": true
+                    },
+                    {
+                        "tipo": "pimiento rojo",
+                        "precio": "1,70",
+                        "oferta": false,
+                        "tipoOferta": null,
+                        "inicioOferta": null,
+                        "finOferta": null,
+                        "stock": 299,
+                        "adquirido": true
+                    }
+                ]
+            }
+        }        
+}

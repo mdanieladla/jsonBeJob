@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <mercadona>
+    <datos>
+      <direccion>Calle de las mariposas, 3</direccion>
+      <poblacion>Madrid</poblacion>
+      <geolocalizacion>
+        <longitud>2° 11′ 34</longitud>
+        <latitud>5° 32′ 19</latitud>
+      </geolocalizacion>
+      <codigo_postal>28093</codigo_postal>
+    </datos>
+    <productos>
+      <pan>
+        <tipo>integral barra</tipo>
+        <precio>1,90</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>101</stock>
+        <adquirido>true</adquirido>
+      </pan>
+      <pan>
+        <tipo>integral sandwich</tipo>
+        <precio>2,30</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>82</stock>
+        <adquirido>false</adquirido>
+      </pan>
+      <pan>
+        <tipo>pan de pueblo</tipo>
+        <precio>2,60</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>111</stock>
+        <adquirido>true</adquirido>
+      </pan>
+      <pan>
+        <tipo>barra gallega</tipo>
+        <precio>2,90</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>81</stock>
+        <adquirido>false</adquirido>
+      </pan>
+      <pan>
+        <tipo>blanco sandwich</tipo>
+        <precio>1,60</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>77</stock>
+        <adquirido>false</adquirido>
+      </pan>
+      <leche>
+        <tipo>entera</tipo>
+        <precio>3,90</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>144</stock>
+        <adquirido>true</adquirido>
+      </leche>
+      <leche>
+        <tipo>desnatada</tipo>
+        <precio>4,20</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>86</stock>
+        <adquirido>false</adquirido>
+      </leche>
+      <leche>
+        <tipo>sin lactosa</tipo>
+        <precio>4,90</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>65</stock>
+        <adquirido>false</adquirido>
+      </leche>
+      <leche>
+        <tipo>avena</tipo>
+        <precio>3,80</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>44</stock>
+        <adquirido>false</adquirido>
+      </leche>
+      <horchata>
+        <tipo>fresca</tipo>
+        <precio>2,90</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>34</stock>
+        <adquirido>true</adquirido>
+      </horchata>
+      <horchata>
+        <tipo>granizado</tipo>
+        <precio>2,10</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>23</stock>
+        <adquirido>false</adquirido>
+      </horchata>
+    </productos>
+  </mercadona>
+  <carrefour>
+    <datos>
+      <direccion>Calle de Juan Bravo, 12</direccion>
+      <poblacion>Madrid</poblacion>
+      <geolocalizacion>
+        <longitud>3° 1′ 24</longitud>
+        <latitud>2° 42′ 49</latitud>
+      </geolocalizacion>
+      <codigo_postal>28023</codigo_postal>
+    </datos>
+    <productos>
+      <cereales>
+        <tipo>kellogs integral</tipo>
+        <precio>2,90</precio>
+        <oferta>true</oferta>
+        <tipoOferta>2ª unidad al 50%</tipoOferta>
+        <inicioOferta>2-10-2023</inicioOferta>
+        <finOferta>6-10-2023</finOferta>
+        <stock>133</stock>
+        <adquirido>false</adquirido>
+      </cereales>
+      <cereales>
+        <tipo>chocapic chocolate</tipo>
+        <precio>2,70</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>92</stock>
+        <adquirido>false</adquirido>
+      </cereales>
+      <cereales>
+        <tipo>lion caramelo y chocolate</tipo>
+        <precio>2,00</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>112</stock>
+        <adquirido>false</adquirido>
+      </cereales>
+      <cereales>
+        <tipo>kellogs miel pops</tipo>
+        <precio>2,50</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>91</stock>
+        <adquirido>true</adquirido>
+      </cereales>
+      <yogur>
+        <tipo>alpro vegetal coco</tipo>
+        <precio>2,90</precio>
+        <oferta>true</oferta>
+        <tipoOferta>3x2</tipoOferta>
+        <inicioOferta>22-10-2023</inicioOferta>
+        <finOferta>26-10-2023</finOferta>
+        <stock>121</stock>
+        <adquirido>true</adquirido>
+      </yogur>
+      <yogur>
+        <tipo>oikos natural</tipo>
+        <precio>2,20</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>123</stock>
+        <adquirido>true</adquirido>
+      </yogur>
+      <yogur>
+        <tipo>oikos sin lactosa</tipo>
+        <precio>3,90</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>65</stock>
+        <adquirido>false</adquirido>
+      </yogur>
+      <frutas>
+        <tipo>fresas 1kg</tipo>
+        <precio>1,90</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>139</stock>
+        <adquirido>true</adquirido>
+      </frutas>
+      <frutas>
+        <tipo>naranja malla 3kg</tipo>
+        <precio>4,10</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>221</stock>
+        <adquirido>true</adquirido>
+      </frutas>
+      <frutas>
+        <tipo>frambuesas</tipo>
+        <precio>2,70</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>190</stock>
+        <adquirido>true</adquirido>
+      </frutas>
+    </productos>
+  </carrefour>
+  <el_corte_inglés>
+    <datos>
+      <direccion>Calle de Felipe II, 2</direccion>
+      <poblacion>Madrid</poblacion>
+      <geolocalizacion>
+        <longitud>3° 4′ 64</longitud>
+        <latitud>5° 23′ 79</latitud>
+      </geolocalizacion>
+      <codigo_postal>28033</codigo_postal>
+    </datos>
+    <productos>
+      <salsas>
+        <tipo>siracha</tipo>
+        <precio>5,10</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>34</stock>
+        <adquirido>false</adquirido>
+      </salsas>
+      <salsas>
+        <tipo>tabasco</tipo>
+        <precio>3,40</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>23</stock>
+        <adquirido>true</adquirido>
+      </salsas>
+      <salsas>
+        <tipo>soja sin gluten</tipo>
+        <precio>5,00</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>192</stock>
+        <adquirido>true</adquirido>
+      </salsas>
+      <salsas>
+        <tipo>soja</tipo>
+        <precio>4,50</precio>
+        <oferta>false</oferta>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>291</stock>
+        <adquirido>false</adquirido>
+      </salsas>
+      <chocolates>
+        <tipo>lindt sin lactosa</tipo>
+        <precio>5,90</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>121</stock>
+        <adquirido>true</adquirido>
+      </chocolates>
+      <chocolates>
+        <tipo>lindt con leche</tipo>
+        <precio>2,60</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>143</stock>
+        <adquirido>false</adquirido>
+      </chocolates>
+      <chocolates>
+        <tipo>lindt con barquillo</tipo>
+        <precio>3,50</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>233</stock>
+        <adquirido>true</adquirido>
+      </chocolates>
+      <verduras>
+        <tipo>lechuga iceberg</tipo>
+        <precio>2,90</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>132</stock>
+        <adquirido>true</adquirido>
+      </verduras>
+      <verduras>
+        <tipo>espárragos trigueros</tipo>
+        <precio>3,10</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>226</stock>
+        <adquirido>true</adquirido>
+      </verduras>
+      <verduras>
+        <tipo>pimiento rojo</tipo>
+        <precio>1,70</precio>
+        <oferta>false</oferta>
+        <tipoOferta/>
+        <inicioOferta/>
+        <finOferta/>
+        <stock>299</stock>
+        <adquirido>true</adquirido>
+      </verduras>
+    </productos>
+  </el_corte_inglés>
+</root>
